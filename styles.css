@@ -1,0 +1,39 @@
+
+html{
+font-size: 62.5;
+}
+
+body{
+  background: #DDF6F4;
+}
+img {
+  display: flex;
+  margin-left: 37rem;
+  margin-top: 4rem;
+  height: 30rem;
+  width: 40rem;
+  justify-content: center;
+}
+
+div.recipe{
+font-size: 1.4rem;
+margin-left: 40rem;
+}
+
+h1{
+  margin-left: 52rem;
+}
+
+.caption{
+  margin-left: 37rem;
+}
+
+div h2{
+  margin-left: 2rem;
+}
+
+p{
+  margin-left: 2rem;
+}
+
+
